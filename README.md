@@ -1,6 +1,5 @@
 ### Hi there 👋. 
-
-Small thing about me: I'm NamHuy but you can call me NamDHay(NamHuy but currently bad).
+### I'm NamHuy
 
 - 🔭 I’m currently working on STM32, PIC, a little bit Arduino and ESP32.
 - 🌱 I’m currently learning C/C++, Kicad, Python.
