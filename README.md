@@ -1,10 +1,6 @@
 ### Hi there 👋. 
 ### I'm NamHuy
 
-- 🔭 I’m currently working on STM32, PIC, a little bit Arduino and ESP32.
-- 🌱 I’m currently learning C/C++, Kicad, Python.
-- 🤔 I’m looking for help with Kicad, OS, Linux
-- 💬 Ask me about protocol(UART, IIC, SPI, CANBus)
 <!--
 **NamDHay/NamDHay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
