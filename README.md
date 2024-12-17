@@ -1,7 +1,4 @@
-<br><img src="./All%20png/gg.gif" width="80px" height="80px"> </br> 
 ### Hi, I'm NamHuy (NamDHay) 👋
-- 🎓 I am studying Automation and Control Engineering Technology at HCMUTE - Ho Chi Minh City University of Technology and Education. 
-- 🔭 I am still developing my skill in these fields 😅, I am eager to expand my knowledge and learn from others. If you have any relevant knowledge or insights to share, I would be honored to learn from your experience and wisdom.
 
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=NamDHay&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
