@@ -1,5 +1,9 @@
 ### Hi, I'm NamHuy (NamDHay) 👋
 
+I am an Automation Control Engineer with experience in embedded microcontroller units (MCUs). My journey in this field has equipped me with robust expertise in Embedded Linux, RTOS, and various communication protocols, and I am continuously striving to expand my skills especially in Linux to take on new challenges.
+
+I am passionate about innovation in automation and committed to driving forward-thinking solutions in every project I undertake. Let’s connect and explore how we can push the limits of technology together!
+
 <details><summary>🏆 Github Trophies</summary>
   <img src="https://github-profile-trophy.vercel.app/?username=NamDHay&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&row=1" alt="trophies"> 
 </details>
